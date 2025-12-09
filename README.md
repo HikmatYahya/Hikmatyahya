@@ -119,7 +119,9 @@
 ## My Contribution Graph
 
 
+<div align="left">
     <img alt="pacman contribution graph" src="blob:https://abozanona.github.io/ef1213a8-a410-4f0d-8a4a-aaea10e633fa.svg">
+</div>
 
 
 
