@@ -118,11 +118,9 @@
 
 ## My Contribution Graph
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HikmatYahya/HikmatYahya/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HikmatYahya/HikmatYahya/output/pacman-contribution-graph.svg">
+
     <img alt="pacman contribution graph" src="blob:https://abozanona.github.io/ef1213a8-a410-4f0d-8a4a-aaea10e633fa.svg">
-</picture>
+
 
 
 <div align="left">
